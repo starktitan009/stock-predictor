@@ -12,6 +12,7 @@ Random Forest Classifier
 
 ## Accuracy
 ~50–60%
+maybe increase or decrease
 
 ## How to Run
 pip install -r requirements.txt

@@ -9,7 +9,7 @@ This project predicts whether a stock will go UP or DOWN using machine learning.
 
 ## Model
 Random Forest Classifier
-
+ and thats all
 ## Accuracy
 ~50–60%
 maybe increase or decrease
